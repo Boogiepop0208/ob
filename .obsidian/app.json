@@ -1,0 +1,8 @@
+{
+  "attachmentFolderPath": "附件/Images",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "foldHeading": false
+}

@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "9bb2274e42cd65ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "5967d8991d466265",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe5a103ce5dcfb70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/集合 关系.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9caf22c052962b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/概率 公理.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e66dc1ad857c1757",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e5e1388bbe5e794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/标准差.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "431ade8c4b3e4a63",
+    "type": "split",
+    "children": [
+      {
+        "id": "31a73ca10e598223",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6544960b5ec1198",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b81444ce890e26a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "集合 关系",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a6838d2ed4550fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "df7620785aee8dbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fbc6007b06ef06c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "713473f37e9eeb66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "46dfdf1fd8372bb3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d40efd5ad65f6b48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2bd6706eb7973730",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b057e4b61487101",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd25b6cbdfb08bed",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-importer:Open Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e66dc1ad857c1757",
+  "lastOpenFiles": [
+    "Notes/集合 关系.md",
+    "Notes/离散概率分布.md",
+    "Notes/离散随机变量的概率分布.md",
+    "Notes/方差.md",
+    "Notes/样本方差变体推导.md",
+    "Notes/标准差.md",
+    "附件/Images/Pasted image 20231011220755.png",
+    "附件/Images/Pasted image 20231011220733.png",
+    "Notes/平均数 中位数.md",
+    "附件/Images/Pasted image 20231011215846.png",
+    "附件/Images/Pasted image 20231011215701.png",
+    "Notes/条件概率乘法法则.md",
+    "Notes/条件概率.md",
+    "Notes/排列 组合 关系.md",
+    "附件/Images/Pasted image 20231011205819.png",
+    "附件/Images/Pasted image 20231011205808.png",
+    "附件/Images/Pasted image 20231011205758.png",
+    "附件/Images/Pasted image 20231011205743.png",
+    "附件/Images/Pasted image 20231011205731.png",
+    "Notes/组合.md",
+    "Notes/排列.md",
+    "Notes/有序对象.md",
+    "Notes/K元组.md",
+    "Notes/概率 公理.md",
+    "test/s.md",
+    "Notes/几何分布.md",
+    "Home.md",
+    "Notes/样本方差.md",
+    "Notes/Obsidian使用.md",
+    "Notes/超几何分布 二项分布 区别.md",
+    "Notes/贝叶斯定理.md",
+    "Notes/二项分布 负二项分布 区别.md",
+    "Notes/独立性 vs 互斥.md",
+    "Notes/超几何分布.md",
+    "Notes/概率质量函数.md",
+    "附件/Images/Pasted image 20231010162522.png",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "附件/Videos",
+    "附件/Books",
+    "附件/Images",
+    "Notes",
+    "Notes/CS/C/2211",
+    "Notes/CS/C",
+    "Notes/CS",
+    "Notes/人文",
+    "附件/pdf/法國高中生哲學讀本1：政府是人民的主人還是僕人？.pdf",
+    "附件"
+  ]
+}
