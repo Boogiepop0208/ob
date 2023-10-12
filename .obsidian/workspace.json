@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/全概率公式.md",
+                "file": "Notes/贝叶斯定理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/全概率公式.md",
+                "file": "Notes/贝叶斯定理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/全概率公式.md",
+                "file": "Notes/贝叶斯定理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/全概率公式.md"
+                "file": "Notes/贝叶斯定理.md"
               }
             }
           },
@@ -208,6 +208,7 @@
   },
   "active": "e66dc1ad857c1757",
   "lastOpenFiles": [
+    "Notes/全概率公式.md",
     "Notes/条件概率 全概率公式 贝叶斯公式 关系.md",
     "Notes/条件概率.md",
     "Notes/概率 公理.md",
@@ -242,7 +243,6 @@
     "Notes/有序对象.md",
     "Notes/K元组.md",
     "test/s.md",
-    "Notes/几何分布.md",
     "附件/Images/Pasted image 20231010162522.png",
     "未命名.canvas",
     "未命名 1.canvas",
