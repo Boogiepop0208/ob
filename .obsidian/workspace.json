@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/大二上 test 考试 asn 作业 due.md",
+                "file": "Notes/全概率公式.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/大二上 test 考试 asn 作业 due.md",
+                "file": "Notes/全概率公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/大二上 test 考试 asn 作业 due.md",
+                "file": "Notes/全概率公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/大二上 test 考试 asn 作业 due.md"
+                "file": "Notes/全概率公式.md"
               }
             }
           },
@@ -206,14 +206,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d6544960b5ec1198",
+  "active": "e66dc1ad857c1757",
   "lastOpenFiles": [
+    "Notes/条件概率 全概率公式 贝叶斯公式 关系.md",
+    "Notes/条件概率.md",
+    "Notes/概率 公理.md",
+    "Notes/超几何分布.md",
+    "Notes/贝叶斯定理.md",
+    "Notes/大二上 test 考试 asn 作业 due.md",
     "Notes/离散概率分布.md",
     "Notes/离散随机变量的概率分布.md",
     "Notes/泊松分布.md",
     "Notes/平均数 中位数.md",
     "Notes/随机变量.md",
-    "Notes/条件概率.md",
     "Notes/条件概率和联合概率 区别.md",
     "Notes/Obsidian Git 使用.md",
     "Notes/Obsidian使用.md",
@@ -236,13 +241,8 @@
     "Notes/排列.md",
     "Notes/有序对象.md",
     "Notes/K元组.md",
-    "Notes/概率 公理.md",
     "test/s.md",
     "Notes/几何分布.md",
-    "Home.md",
-    "Notes/样本方差.md",
-    "Notes/超几何分布 二项分布 区别.md",
-    "Notes/贝叶斯定理.md",
     "附件/Images/Pasted image 20231010162522.png",
     "未命名.canvas",
     "未命名 1.canvas",
