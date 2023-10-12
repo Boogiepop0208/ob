@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/离散概率分布.md",
+                "file": "Notes/大二上 test 考试 asn 作业 due.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/离散概率分布.md",
+                "file": "Notes/大二上 test 考试 asn 作业 due.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/离散概率分布.md",
+                "file": "Notes/大二上 test 考试 asn 作业 due.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/离散概率分布.md"
+                "file": "Notes/大二上 test 考试 asn 作业 due.md"
               }
             }
           },
@@ -206,8 +206,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e66dc1ad857c1757",
+  "active": "d6544960b5ec1198",
   "lastOpenFiles": [
+    "Notes/离散概率分布.md",
     "Notes/离散随机变量的概率分布.md",
     "Notes/泊松分布.md",
     "Notes/平均数 中位数.md",
@@ -217,7 +218,6 @@
     "Notes/Obsidian Git 使用.md",
     "Notes/Obsidian使用.md",
     "Notes/集合 关系.md",
-    "Notes/离散概率分布.md",
     "Notes/方差.md",
     "Notes/样本方差变体推导.md",
     "Notes/标准差.md",
